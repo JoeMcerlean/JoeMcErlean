@@ -17,20 +17,27 @@
   <a href="https://www.python.org/"> <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.typescriptlang.org/"> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://html.com/"> <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS3" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Frameworks
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://nodejs.org/"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node" height="30" style="vertical-align:top; margin:4px"></a>
+      <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png" alt="Next" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://expressjs.com/"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" alt="Express" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://webpack.js.org/"> <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack" height="30" style="vertical-align:top; margin:4px"></a>
 
 ## Technologies
 <p>
+  <a href="https://nodejs.org/"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.sqlite.org/index.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://getbootstrap.com/"> <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://docker.com/"> <img src="https://cdn.svgporn.com/logos/docker.svg" alt="Docker" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.linux.org/"> <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="Linux" height="30" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.microsoft.com/en-gb/windows"> <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height="30" style="vertical-align:top; margin:4px"></a> 
   <a href="https://www.android.com/"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.github.com/JoeMcErlean/"> <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Git" height="30" style="vertical-align:top; margin:4px"></a>   
   <a href="https://firebase.google.com/"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://sass-lang.com/"> <img src="https://cdn.svgporn.com/logos/sass.svg" alt="SASS" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/"> <img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" alt="Flask" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
