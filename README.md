@@ -30,7 +30,7 @@
   <a href="https://jestjs.io/"> <img src="https://cdn.svgporn.com/logos/jest.svg" alt="Jest" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://junit.org/junit5/"> <img src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark.png" alt="JUnit" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://site.mockito.org/"> <img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="Mockito" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://maven.apache.org/"> <img src="https://cdn.svgporn.com/logos/maven.svg" alt="Maven" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://maven.apache.org/"> <img src="https://cdn.svgporn.com/logos/maven.svg" alt="Maven" height="20" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Technologies
