@@ -28,8 +28,8 @@
       <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="Next" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://getbootstrap.com/"> <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://jestjs.io/"> <img src="https://cdn.svgporn.com/logos/jest.svg" alt="Jest" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://junit.org/junit5/"> <img src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark.png" alt="JUnit" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://site.mockito.org/"> <img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="Mockito" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://junit.org/junit5/"> <img src="https://junit.org/junit4/images/junit5-banner.png" alt="JUnit" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://maven.apache.org/"> <img src="https://cdn.svgporn.com/logos/maven.svg" alt="Maven" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -42,7 +42,7 @@
   <a href="https://www.atlassian.com/software/jira"> <img src="https://wac-cdn.atlassian.com/dam/jcr:0b915e87-bb12-4795-8d4a-966ce618f2c0/Jira%20Software-icon-blue.svg" alt="Jira" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.atlassian.com/software/crucible"> <img src="https://cdn.svgporn.com/logos/crucible.svg" alt="Crucible" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://webpack.js.org/"> <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://docker.com/"> <img src="https://cdn.svgporn.com/logos/docker.svg" alt="Docker" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://docker.com/"> <img src="/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.linux.org/"> <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="Linux" height="30" style="vertical-align:top; margin:4px"></a> 
   <a href="https://www.microsoft.com/en-gb/windows"> <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height="30" style="vertical-align:top; margin:4px"></a> 
   <a href="https://www.android.com/"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a>
