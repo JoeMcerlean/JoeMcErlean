@@ -42,7 +42,7 @@
   <a href="https://www.atlassian.com/software/jira"> <img src="https://wac-cdn.atlassian.com/dam/jcr:0b915e87-bb12-4795-8d4a-966ce618f2c0/Jira%20Software-icon-blue.svg" alt="Jira" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.atlassian.com/software/crucible"> <img src="https://cdn.svgporn.com/logos/crucible.svg" alt="Crucible" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://webpack.js.org/"> <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://docker.com/"> <img src="/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://docker.com/"> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png" alt="Docker" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.linux.org/"> <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="Linux" height="30" style="vertical-align:top; margin:4px"></a> 
   <a href="https://www.microsoft.com/en-gb/windows"> <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height="30" style="vertical-align:top; margin:4px"></a> 
   <a href="https://www.android.com/"> <img src="https://cdn.svgporn.com/logos/android-icon.svg" alt="Android" height="30" style="vertical-align:top; margin:4px"></a>
